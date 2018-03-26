@@ -140,7 +140,7 @@ print(classification_report(y_test,predictions))
 
 
 ________________________________________________________
-#SVM - Support Vector Machine
+#SVM - Support Vector Machine (à partir de Udemy)
 
 
 reset()
